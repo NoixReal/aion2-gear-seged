@@ -28,9 +28,7 @@ Az **AION2 Gear Segéd** egy modern, átfogó kísérőalkalmazás az **Aion 2**
 
 ## 🖼️ Képernyőképek
 
-*(Ide beszúrhatsz képeket a programról, pl. így:)*
-`![Áttekintés nézet](kepek/attekintes.jpg)`
-`![Beállítások nézet](kepek/beallitasok.jpg)`
+
 
 ---
 
