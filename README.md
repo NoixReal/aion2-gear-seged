@@ -36,7 +36,6 @@ Az **AION2 Gear Segéd** egy modern, átfogó kísérőalkalmazás az **Aion 2**
 
 ## 🌐 Közösség & Discord
 Magyar közösség és guild információk: **Warriors of Hungary**  
-https://discord.gg/AtJxNNxGDJ
 
 Csatlakozz a Discord szerverhez az alkalmazás felületén található linken keresztül!
 
