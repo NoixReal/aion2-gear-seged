@@ -1,4 +1,3 @@
-# aion2 gear segéd
 # 🛡️ AION2 Gear Segéd
 
 Az **AION2 Gear Segéd** egy modern, átfogó kísérőalkalmazás az **Aion 2** játékosok számára, amely segít nyomon követni a karaktered fejlődését, optimalizálni a felszerelésedet (Gear Score), és koordinálni a napi/heti feladatokat.
